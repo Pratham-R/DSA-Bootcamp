@@ -4,8 +4,8 @@ Go to [`Kunal Kushwaha's 👨🏻‍💻`](https://github.com/kunal-kushwaha) co
 
 | Topic                     | Progress |
 | ------------------------- | -------- |
-| 01-Flow of Program        |          |
-| 02-First Java             |          |
+| 01-Flow of Program        |   DONE   |
+| 02-First Java             |   DONE   |
 | 03-Conditionals and Loops |          |
 | 04-Functions              |          |
 | 05-Arrays                 |          |
