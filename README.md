@@ -6,7 +6,7 @@ Go to [`Kunal Kushwaha's 👨🏻‍💻`](https://github.com/kunal-kushwaha) co
 | ------------------------- | -------- |
 | 01-Flow of Program        |   DONE   |
 | 02-First Java             |   DONE   |
-| 03-Conditionals and Loops |          |
+| 03-Conditionals and Loops |   DONE   |
 | 04-Functions              |          |
 | 05-Arrays                 |          |
 | 06-Searching              |          |
