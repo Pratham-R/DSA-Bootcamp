@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Q2 {
+public class Q02 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("Enter the amount of kwh used: ");

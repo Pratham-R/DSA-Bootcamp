@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Q9 {
+public class Q09 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the number of Runs: ");
